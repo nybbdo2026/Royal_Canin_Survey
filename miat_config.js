@@ -5,7 +5,7 @@ const brands = [
     { name: "Orijen", img:"img/orijen.png" },
     { name: "Drools", img:"img/drools.png" },
     { name: "Farmina Pet Foods", img:"img/farmina.png" },
-    { name: "Acana", img:"img/Acana.png" },
+    { name: "Acana", img:"img/acana.png" },
     { name: "Pedigree", img:"img/pedigree.png" }
   ];
 
