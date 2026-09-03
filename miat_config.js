@@ -1,13 +1,17 @@
 const brands = [
-    { name: "BMW", img: "img/BMW.png" },
-    { name: "Ducati", img: "img/Ducati.png" }, 
-    { name: "Honda", img:"img/Honda.png" }, 
-    { name: "Suzuki", img:"img/Suzuki.png" }
+    { name: "Hill's", img: "img/hills.png" },
+    { name: "Royal Canin", img: "img/royalcanin.png" }, 
+    { name: "Purina Pro Plan", img:"img/purina.png" }, 
+    { name: "Orijen", img:"img/orijen.png" },
+    { name: "Drools", img:"img/drools.png" },
+    { name: "Farmina Pet Foods", img:"img/farmina.png" },
+    { name: "Acana", img:"img/Acana.png" },
+    { name: "Pedigree", img:"img/pedigree.png" }
   ];
 
-const category = "Aesthetic Enhancement"
+const category = "Pet Food"
 
-const attributes = ["Freedom","Courage","Impulsiveness","Discovery","Escape","Unconventional","Resilience","Boldness","Transformation","Pride","Perfection","Recognition","Success","Sophistication","Confidence","Status","Empowerment","Optimization","Legacy","Original","Esteem","Routine/Discipline","Control","Effective","Simplicity","Methodical","Expertise","Natural","Savvy","Value","Proactive","High quality","Endorsed","Safety","Trusted","Protection","Peace of mind","Comfort","Belonging","Acceptance by others","Avoid embarrassment","Dependable","Joy","Sensual","Carefreeness","Relief","Fun","Indulge myself","Optimism","Naturalness","Be at ease with myself","Excitement","Zest for life","Inspiration","Vitality","Playfulness","Expression","Be on trend","Vibrant","Reviving"];
+const attributes = ["Freedom","Discovery","Fighting spirit","Unconventional","Dynamic","Resilience","Boldness","Vigor","Transformative","Uniqueness","Pride","Perfection","Sophistication","Doing my best","Confidence","Optimization","Strong","Aspiration","Growth","Superior","Powerful","Control","Effective","Precision","Simplicity","Expertise","Proven","Scientific","Proactive","Trusted","Caring","Togetherness","Sense of harmony","Protection","Peace of mind","Devotion","Longevity","Companionship","Restore","Understanding","Joy","Carefreeness","Indulgence","Optimism","Naturalness","Happiness","Hope","Love","Wellness","Calm","Excitement","Zest for life","Vitality","Playfulness","Individuality","Energy","Proactive","Thrive","Extraordinary"];
 
 const pretest_attributes = [
   "Hot", 
@@ -37,4 +41,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Test Bikes Survey"
+const survey_name = "Royal Canin Survey"
